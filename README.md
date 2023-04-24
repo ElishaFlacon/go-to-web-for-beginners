@@ -1,4 +1,10 @@
 <h1> 
+    В РАЗРАБОТКЕ
+</h1>
+
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+<h1> 
     Привет, это небольшой путеводитель объясняющий как стать веб-разработчиком.
 </h1>
 <h3>
