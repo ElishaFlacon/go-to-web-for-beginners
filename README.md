@@ -49,68 +49,45 @@
 
 </br>
 
-<h2>
-  🛠️ Some Stuff:
-</h2>
 
 
 
 
 
-</br>
 
 
 
-<h2>
-  🚀 Launch App:
-</h2>
-
-- text1
-- text2
-- text3
 
 
 
-</br>
 
 
 
-<h2>
-  🎮 Controls:
-</h2>
-
-- text1
-- text2
-- text3
 
 
 
-</br>
 
 
 
-<h2>
- 📺 Demo:
-</h2>
-
-here demo or ???
 
 
 
-</br>
 
 
-
-<h2>
-⚡ Or WTF?
-</h2>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3>
-    Finally we launch app and nothing works, hoorey 🗿🚬
+   to do 🗿🚬
 </h3>
 
-
+- выделить важные детали стронгом
+- не забудь про эмодзи
+- что то еще
 
 
 <br/>
