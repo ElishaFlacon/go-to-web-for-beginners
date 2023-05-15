@@ -58,6 +58,7 @@ ____
     - JavaScript (NodeJS)
 - Базы Данных
     - SQL
+- <a href="https://youtu.be/LufZgg5XCPg">Очень крутой видос про языки программирования</a>
 - <a href="https://www.youtube.com/watch?v=PS4S8BnURYU&ab_channel=AlekOS">Полезный видос, рассказывающий про языки программирования</a>
 
 
